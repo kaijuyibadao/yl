@@ -1,0 +1,1 @@
+/iso/CentOS-7-x86_64-DVD-1708.iso  /var/ftp/rhel7  iso9660 defaults 0 0
